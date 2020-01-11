@@ -6,3 +6,6 @@ def countdown
   count -= 1
 end
 end 
+
+def countdown_with_sleep
+  while 
